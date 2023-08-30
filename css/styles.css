@@ -12764,6 +12764,13 @@ header.masthead .h1 {
     padding-bottom: 0;
   }
 
+  header.masterhead-nos {
+    height: 100vh;
+    min-height: 40rem;
+    padding-top: 4.5rem;
+    padding-bottom: 0;
+  }
+
   header.masthead p {
     font-size: 1.15rem;
   }
@@ -12772,12 +12779,23 @@ header.masthead .h1 {
   header.masthead .h1 {
     font-size: 3rem;
   }
+
+  header.masterhead-nos h1,
+  header.masterhead-nos .h1 {
+    font-size: 3rem;
+  }
+
 }
 
 @media (min-width: 1200px) {
 
   header.masthead h1,
   header.masthead .h1 {
+    font-size: 3.5rem;
+  }
+
+  header.masterhead-nos h1,
+  header.masterhead-nos .h1 {
     font-size: 3.5rem;
   }
 }
