@@ -1,0 +1,15 @@
+Pre sobre nosotros
+Únete a nuestro apasionante Club de Programación, donde las mentes
+                        creativas y curiosas se reúnen para explorar el emocionante mundo de la tecnología. Ya seas un
+                        novato entusiasta o un experto en código, aquí encontrarás un espacio para aprender, colaborar y
+                        poner en práctica tus ideas
+
+Habilidades a desarrollar
+Algoritmos y Estructuras de Datos: La programación competitiva a menudo se basa en resolver problemas complejos en un tiempo limitado. Los miembros deben tener un sólido conocimiento de algoritmos y estructuras de datos eficientes para abordar estos desafíos de manera óptima.
+
+Codificación Rápida y Precisa: En competencias de programación, la velocidad es esencial. Los miembros deben desarrollar la capacidad de escribir código de manera rápida y precisa, sin cometer errores. Esto incluye la capacidad de depurar y corregir código de manera eficiente.
+
+Pensamiento Lógico y Matemático: La programación competitiva a menudo implica problemas matemáticos y lógicos. Los miembros deben ser capaces de analizar problemas, identificar patrones y aplicar principios matemáticos para encontrar soluciones óptimas.
+
+Trabajo en Equipo (en el desarrollo de software): Si el club también se enfoca en proyectos de desarrollo de software, es fundamental que los miembros puedan colaborar de manera efectiva en equipos. Esto incluye la planificación, diseño, implementación y prueba de software en conjunto.
+

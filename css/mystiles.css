@@ -1,0 +1,6 @@
+.container_sobre-nosotros div{
+    display: grid;
+    /* grid-column: 2; */
+    grid-template-columns: repeat(1, 2fr);
+    
+}
