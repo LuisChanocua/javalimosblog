@@ -19,3 +19,5 @@ Bootstrap
 Backend:
 Actualmente no se cuenta con un lenguaje
 
+Requerimientos
+- Dispositivo con algun navegador web con acceso a internet
