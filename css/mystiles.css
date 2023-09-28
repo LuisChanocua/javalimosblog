@@ -1,12 +1,53 @@
-.container_sobre-nosotros div{
+.container_sobre-nosotros div {
     display: grid;
     /* grid-column: 2; */
     grid-template-columns: repeat(1, 2fr);
-    
+
 }
 
 
 /* sobre nosotros contacto */
-#links-contac a{
-color: white;
+#links-contac a {
+    color: white;
 }
+
+
+/* pagina 404 */
+#span_error404 {
+    /* color: purple; */
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+#body_error404 {
+    background-color: rgb(171, 171, 171);
+    color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.content_error404{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.content_error404 a{
+    padding: 1rem;
+    text-decoration: none;
+    color: green;
+    font-size: 1.5rem;
+
+}
+
+.content_error404 img{
+    border-radius: 10px;
+
+}
+
+.content_error404 span{
+    padding: 1rem;
+
+}
+
+
