@@ -1,0 +1,101 @@
+.container_sobre-nosotros div {
+    display: grid;
+    /* grid-column: 2; */
+    grid-template-columns: repeat(1, 2fr);
+
+}
+
+
+/* sobre nosotros contacto */
+#links-contac a {
+    color: white;
+}
+
+
+/* pagina 404 */
+#span_error404 {
+    /* color: purple; */
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+#body_error404 {
+    background-color: rgb(171, 171, 171);
+    color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.content_error404 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.content_error404 a {
+    padding: 1rem;
+    text-decoration: none;
+    color: green;
+    font-size: 1.5rem;
+
+}
+
+.content_error404 img {
+    border-radius: 10px;
+
+}
+
+.content_error404 span {
+    padding: 1rem;
+
+}
+
+.masterhead-masblogs {
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url(../assets/img/comunidad_icpc.jpg);
+    padding-top: 10rem;
+    /* padding-bottom: 50rem; */
+    padding-bottom: calc(20rem - 4.5rem);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    /* font-size: 5rem; */
+
+}
+
+.club {
+    display: flex;
+    flex-direction: row;
+}
+
+.club_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.club_content p {
+    text-align: justify;
+    margin-right: 5rem;
+}
+.img_club-content {
+    margin: 0rem 5rem 0rem 8rem;
+}
+
+@media (max-width:768px) {
+    .club{
+        flex-direction: column;
+    }
+
+    .club_content {
+        flex-direction: column;
+    }
+
+    .club_content p {
+        margin-right: 0rem;
+    }
+    .img_club-content {
+        margin-left: 10rem;
+    }
+}

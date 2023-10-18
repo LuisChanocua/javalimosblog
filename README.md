@@ -1,3 +1,23 @@
 # javalimosblog
-Blog sobre el club de progamacion java-limo++
-Author: Luis Chanocua
+Pagina Blog
+Branch Master - Java-Limo++ Blog
+
+Java-Limo++ Blog es un proyecto donde principal objetivo es dar a conocer al Club de Programacion Java-Limo++
+de la carrera de Ingenieria en Sistemas Computacionales del Tecnologico Superior de Huetamo.
+
+Editor de Codigo: Visual Studio Code
+
+Este blog esta desarrollado con las siguiente tecnologias:
+
+Fronted: 
+HTML 5
+CSS 3
+JavaScript
+
+Bootstrap
+
+Backend:
+Actualmente no se cuenta con un lenguaje
+
+Requerimientos
+- Dispositivo con algun navegador web con acceso a internet
