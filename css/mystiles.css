@@ -25,14 +25,14 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.content_error404{
+.content_error404 {
     display: flex;
     flex-direction: column;
     align-items: center;
 
 }
 
-.content_error404 a{
+.content_error404 a {
     padding: 1rem;
     text-decoration: none;
     color: green;
@@ -40,12 +40,12 @@
 
 }
 
-.content_error404 img{
+.content_error404 img {
     border-radius: 10px;
 
 }
 
-.content_error404 span{
+.content_error404 span {
     padding: 1rem;
 
 }
@@ -60,5 +60,42 @@
     background-attachment: scroll;
     background-size: cover;
     /* font-size: 5rem; */
-  
-  }
+
+}
+
+.club {
+    display: flex;
+    flex-direction: row;
+}
+
+.club_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.club_content p {
+    text-align: justify;
+    margin-right: 5rem;
+}
+.img_club-content {
+    margin: 0rem 5rem 0rem 8rem;
+}
+
+@media (max-width:768px) {
+    .club{
+        flex-direction: column;
+    }
+
+    .club_content {
+        flex-direction: column;
+    }
+
+    .club_content p {
+        margin-right: 0rem;
+    }
+    .img_club-content {
+        margin-left: 10rem;
+    }
+}
