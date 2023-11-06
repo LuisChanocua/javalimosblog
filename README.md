@@ -2,8 +2,7 @@
 Pagina Blog
 Branch Master - Java-Limo++ Blog
 
-Java-Limo++ Blog es un proyecto donde principal objetivo es dar a conocer al Club de Programacion Java-Limo++
-de la carrera de Ingenieria en Sistemas Computacionales del Tecnologico Superior de Huetamo.
+El proyecto Java-Limo++ Blog tiene como principal objetivo dar a conocer el Club de Programación Java-Limo++ de la carrera de Ingeniería en Sistemas Computacionales del Tecnológico Superior de Huetamo.
 
 Editor de Codigo: Visual Studio Code
 
